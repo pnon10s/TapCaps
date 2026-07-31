@@ -4,7 +4,7 @@ Palette Picker is a small, fast utility for inserting your favorite symbols, emo
 
 **Palette Picker is a Windows‑only utility, designed for speed, simplicity, and everyday use.**
 
-![Palette Examples](Palette_Examples.jpg)
+![Palette Examples](Palette Examples.jpg)
 
 ---
 
