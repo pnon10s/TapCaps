@@ -33,8 +33,8 @@ The Picker will paste the character into your text and close. Perfect for quick 
 - **CharacterPalette.txt** — Your list of characters and emojis  
 - **PalettePickerHelp.txt** — Full details. The Picker opens this help file.
 
-Windows may show a SmartScreen warning because this is a small unsigned indie utility.
-Click “More info” → “Run anyway” to launch Palette Picker.
+Windows may show a SmartScreen warning because the app isn’t digitally signed.
+Choose “More info” → “Run anyway” to start Palette Picker.
 
 ---
 
