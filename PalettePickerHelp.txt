@@ -1,0 +1,95 @@
+﻿Palette Picker — Help
+
+When first opened, Palette Picker enables its hotkey so you can launch it without losing cursor focus. You can also run PalettePickerHotkey.exe to enable the hotkey. To paste characters, open Palette Picker with the Ctrl+U hotkey while your text cursor is in the target window.
+
+Palette Picker allows for fast pasting of your favorite characters into any text. You can open the Picker as needed or leave it visible or minimized while typing.
+
+Just click the character cells for visual pasting.
+Keyboard shortcuts also allow quick tap‑pasting:
+
+Tap Caps, then you can paste any of:
+• 18 characters with one key tap
+• 162 characters with two key taps
+• 324 characters with three key taps
+
+The Picker closes after pasting one character unless you choose to keep it open for additional pastes.
+
+Some characters may appear in fallback black inside the Picker, but they paste in their correct color.
+
+------------------------------------------------------------
+Pasting Characters After Tapping Caps
+
+• Tap a column letter to quickly paste the row‑1 character.
+• Tap one or two digits to choose up to row 18.
+• Then tap a column letter to paste the chosen NxL cell.
+
+------------------------------------------------------------
+Other Caps Commands
+Tap Caps, then:
+
+• Tilde (`) → Persistent mode (Picker stays open).
+  The (℗) symbol appears in the upper‑left corner.
+
+• J → Opens the character text file in your default editor.
+  The file must be one line with no new‑line or special 
+  characters. Spaces are allowed and show as empty cells.
+
+• K → Reloads the grid from the character text file.
+  Up to 324 (18x18) characters are displayed and selectable.
+
+• L → Starts Arrange Mode. Click cell1 and then cell2:
+    - cell1 moves to cell2, unless:
+    - cell2 = cell1 → Picker asks to delete cell1.
+    - cell2 is to the right of cell1 → Picker inserts a space.
+  Tap Caps again to close Arrange Mode.
+  Picker asks to save modifications to the character file.
+
+• M → Displays this help file.
+
+• U → Closes the Picker. Esc also closes without needing Caps.
+  Closing also asks to save modifications to the character file.
+
+• ɪ → Toggles the Picker launcher hotkey (Ctrl+U).
+   This allows you to remove the hotkey if needed.
+   
+• O → Toggles the Picker between displayed and minimized.
+   This also keeps the Picker open. While hidden, you can paste
+   characters freely into your document using Caps key picking.
+   If you switch to a new document, press Ctrl+U to close the 
+   Picker. Press Ctrl+U again to re‑anchor it to the new window.
+
+------------------------------------------------------------
+Notes on Caps Commands
+
+Commands are chosen for hand convenience:
+• Caps is a big command key.
+• Tilde and Esc are near the command key.
+• Column letters are the QWERTY keys and below.
+• J, K, L, M are a low‑travel reach from the right‑hand home row.
+• U, I, O sit right above these, forming a convenient group.
+
+     Left hand         Right hand
+[Esc]    [QWERTY]      [UIO]
+[ ` ]       [ASDFGH]      [JKL]
+[Caps]   [ZXCVBN]      [M]
+
+• A command must be completed before continuing.
+• Press the Space bar to abort a command.
+
+------------------------------------------------------------
+Character Exploration
+
+Rocky's Picker encourages playful character exploration.
+Open the character file, then press Win+. to open the 
+Windows emoji/character picker. Scroll down and click 
+whichever characters or emojis catch your interest.
+
+Close the character file, then tap Caps→K to reload the Picker.
+Tap Caps→L to arrange or delete characters.
+
+------------------------------------------------------------
+🎶 ENJOY TYPING CHARACTERS! 😍 
+Now I'm going to play 🥒⚽ at the Y!
+
+If you like this Picker, please donate $5 to your favorite 
+charity — and don’t forget to VOTE!
