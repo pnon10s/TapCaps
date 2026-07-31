@@ -1,6 +1,6 @@
 # Palette Picker — Overview
 
-Palette Picker is a small, fast utility for inserting your favorite symbols, emojis, and special characters from your own palette into any text box. Press a hotkey, click a character, and the Picker pastes it instantly and closes.
+Palette Picker is a small, fast utility for inserting your favorite symbols, emojis, and special characters from your own palette into any text box. Press a hotkey, click a character, and the Picker pastes it instantly and closes. A key-tap method of pasting is available which can be faster than reaching for the mouse and positioning it on a character to click.
 
 **Palette Picker is a Windows‑only utility, designed for speed, simplicity, and everyday use.**
 
