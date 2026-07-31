@@ -20,7 +20,7 @@ Palette Picker is a small, fast utility for inserting your favorite symbols, emo
 - If you haven’t already, run **PalettePickerHotkey.exe**.  
 - Open any app with a text box and place the cursor.  
 - Press **Ctrl+U** to open the Picker.  
-- Click any character or emoji. *(An alternate quick‑key pasting method is explained in the Help file.)*
+- Click any character or emoji. *(An fast quick‑key pasting method is explained in the Help file.)*
 
 
 The Picker will paste the character into your text and close. Perfect for quick pasting of your favorite symbols. The Picker can be kept open for multi‑symbol pasting and other features, like editing the palette.
