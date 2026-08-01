@@ -38,5 +38,18 @@ Windows may show a SmartScreen warning because the app isn’t digitally signed,
 
 ---
 
+## Download
+
+To download Palette Picker:
+
+➡️ Click **Releases** on the right side of this page  
+➡️ Download **PalettePicker.zip**
+
+Do NOT download the auto-generated “Source code” files.
+They do not contain the app.
+
+---
+
+
 ## License  
 Free for personal use.
