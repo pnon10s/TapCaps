@@ -39,6 +39,7 @@ You can also keep Tap Caps open for multi‑symbol pasting or palette editing.
 - **SymbolSet3.txt** — Dummy set with just a message  
 - **TapCapsHelp.txt** — Full details; Tap Caps opens this help file
 
+
 - Click the Tap Caps Release button on the right side ot the screen for the download zip.
 
 ---
