@@ -82,9 +82,9 @@ Commands are chosen for hand convenience:
 • J, K, L, M are a low‑travel reach from the right‑hand home row.
 • U, O sit right above these, forming a convenient group.
 
-     Left hand         Right hand
-[Esc]    [QWERTY]      [U O]
-[ `/~ ]    [ASDFGH]      [JKL]
+   Left hand         Right hand
+[Esc]  [QWERTY]       [U  O]
+[`/~]   [ASDFGH]       [JKL]
 [Caps]   [ZXCVBN]       [M]
 
 • A command must be completed before continuing.
