@@ -4,7 +4,7 @@ Tap Caps is a small, fast utility for inserting your favorite symbols, emojis, a
 
 **Tap Caps is a Windows‑only utility, designed for speed, simplicity, and everyday use.**
 
-![Symbol Sets Preview](PaletteExamples.png)
+![Symbol Sets Preview](PaletteExamples.jpg)
 *(Your image goes here — placed before First‑Run Setup)*
 
 ---
