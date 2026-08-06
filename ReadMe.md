@@ -6,7 +6,7 @@ Tap Caps also includes a fast quick‑tap sequence method that’s often quicker
 
 **Tap Caps is a Windows‑only utility, designed for speed, simplicity, and everyday use.**
 
-![Symbol Sets Preview](symbolsets.jpg)
+![Symbol Sets Preview](PaletteExamples.jpg)
 
 ---
 
