@@ -1,0 +1,143 @@
+﻿Tap Caps — Help
+
+Run TapCapsHotkeyToggle.exe to enable the Tap Caps hotkey.
+The hotkey allows Tap Caps to launch without losing cursor
+focus. Place the cursor in your text document. Then you can
+press the hotkey anytime while typing to paste symbols and
+emojis using Tap Caps.
+
+Tap Caps allows fast pasting of your favorite symbols and
+emojis into any text. You can keep the palette visible or
+minimized while typing.
+
+You can click the palette cells for visual pasting or use the
+Tap Caps keyboard shortcuts. The shortcuts are often faster
+than clicking. Your hands don't have to leave the keyboard to
+navigate and click the palette cells.
+
+------------------------------------------------------------
+Keyboard shortcuts for quick tap‑pasting:
+
+Tap the Caps key once, then you can paste any of:
+• 18 characters with one key tap
+• 162 characters with two key taps
+• 324 characters with three key taps
+
+Some characters may appear in black fallback font inside
+the palette, but they paste in their correct color.
+
+------------------------------------------------------------
+Pasting Characters After Tapping Caps
+
+• Tap a column letter to paste a character from row 1.
+   Example: Caps → Q pastes row1/columnQ
+• Tap one or two digits to select rows 1–18.
+• Then tap a column letter to paste the chosen NxL cell.
+
+------------------------------------------------------------
+Other Caps Commands
+Tap Caps, then:
+
+• [`/~] key with tilde → cycles through control modes.
+   See the Mode Selection below the Commands.
+ 
+• J → Opens the symbol set in your default editor.
+   All control characters are removed when loading and
+   when saving the set, except "`n" (the newline). Newlines
+   are shown as "⏎" in the palette, but they do not create
+   row breaks. This lets you organize your set with new-lines.
+   Spaces are allowed and appear as empty cells.
+
+• K → Reloads the grid from the symbol set.
+  Up to 324 (18x18) characters are displayed and selectable.
+
+• L → Starts Arrange Mode. Click cell1 and then cell2:
+    - cell1 moves to cell2, unless:
+    - cell2 = cell1 → Tap Caps asks to delete cell1.
+    - cell2 is to the right of cell1 → Tap Caps inserts a space.
+  Tap Caps again to close Arrange Mode.
+  Tap Caps asks to save modifications to the symbol set.
+
+• M → Displays this help file. Tap Caps again to close help.
+
+• U → Displays the next symbol set in the palette. Up to 9
+   sets can be saved in the Tap Caps folder; SymbolSet1.txt
+   through SymbolSet9.txt. Missing sets are ignored.
+
+• O → Toggles the palette between displayed and minimized.
+   While hidden, you can paste characters freely into your
+   document using Tap Caps shortcuts. If you switch to a new
+   document, you must close and reopen Tap Caps to re‑anchor
+   it to the new window.
+  ★ Stay aware that Caps key is still controlled when minimized ★
+
+Esc or the window’s X button closes Tap Caps.
+   Closing also asks to save modifications to the symbol set.
+
+------------------------------------------------------------
+Notes on Caps Commands
+
+Commands are chosen for hand convenience:
+• Caps is a big command key.
+• Tilde and Esc are near the command key.
+• Column letters are the QWERTY keys and below.
+• J, K, L, M are a low‑travel reach from the right‑hand home row.
+• U, O sit right above these, forming a convenient group.
+
+     Left hand         Right hand
+[Esc]    [QWERTY]      [U O]
+[ `/~ ]    [ASDFGH]      [JKL]
+[Caps]   [ZXCVBN]       [M]
+
+• A command must be completed before continuing.
+• The Space bar or invalid key entries abort a command.
+
+------------------------------------------------------------
+Mode Selection
+ 
+Caps then [`/~] key with tilde → cycles through control modes.
+
+▶ Full Control Mode
+• All selection methods and command options are available
+• The palette stays open until closed with Esc or windows X
+• The (℗) symbol appears in the upper‑left corner (Persistent)
+★ Target window CANNOT BE CHANGED while the palette is open.
+
+The following two Quick Paste modes are meant for power users.
+Because they pre-activate Caps, their usage must be understood.
+
+Common features of the following Quick Paste Modes
+• Caps is pre-activated - just enter selection or command! 
+   Ex. Press hotkey then T to quickly paste the character in cell 1xT.
+• Tap Caps closes after the first successful paste. 
+• Commands are limited to [`/~]=Mode and U=Next Symbol set.
+
+▶ Quick Paste Mode 1
+• User may tap Space to abort Caps command to click cell instead.
+
+▶ Quick Paste Mode 2
+• The palette is a non-clickable image of the normal palette.
+• The image loads faster than the normal palette. This helps avoid
+   the situation where a user presses the hotkey and then presses 
+   a key so quickly that Tap Caps hasn't had a chance to activate
+   the simulated Caps press. In this case the key will type normally
+   instead of being interpreted as a Caps selection or command.
+
+------------------------------------------------------------
+Character Exploration
+
+Tap Caps encourages playful character exploration.
+Open a symbol set, then press Win+. to open the 
+Windows emoji/symbol picker. Scroll down and click 
+whichever symbols or emojis catch your interest.
+You can create up to 9 SymbolSetn.txt files in the folder.
+
+Close the symbol set, then use the hotkey to launch Tap Caps.
+Tap the Caps key then L to arrange or delete symbols.
+
+------------------------------------------------------------
+🎶 ENJOY TYPING SYMBOLS AND EMOJIS! 😍 
+Now I'm going to play 🥒⚽ at the Y!
+
+If you like Tap Caps, please donate to your favorite 
+charity, or me — and don’t forget to VOTE!
