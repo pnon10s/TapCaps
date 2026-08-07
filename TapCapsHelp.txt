@@ -87,7 +87,7 @@ Commands are chosen for hand convenience:
      Left hand         Right hand
 [Esc]    [QWERTY]      [U O]
 [ `/~ ]   [ASDFGH]      [JKL]
-[Caps]      [ZXCVBN]     [M]
+[Caps]      [ZXCVBN]    [M]
 
 • A command must be completed before continuing.
 • The Space bar or invalid key entries abort a command.
