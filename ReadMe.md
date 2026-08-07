@@ -24,8 +24,8 @@ Tap Caps also includes a fast quick‑tap sequence method that’s often quicker
 - Press **Ctrl+⁇** (where ⁇ is your chosen key) to open Tap Caps.  
 - Click any character or emoji, or use a quick‑tap sequence.
 
-Tap Caps pastes the character into your text and closes.  
-You can also keep Tap Caps open for multi‑symbol pasting or palette editing.
+Tap Caps pastes the character into your text.  
+Tap Caps stays open for multi‑symbol pasting or palette editing.
 
 ---
 
