@@ -1,6 +1,6 @@
 # Tap Caps — Overview
 
-Tap Caps is a small, fast utility for inserting your favorite symbols, emojis, and special characters from your own palette into any text box. Press a hotkey, tap a quick sequence, or click a character — Tap Caps pastes it instantly and closes.
+Tap Caps is a small, fast utility for inserting your favorite symbols, emojis, and special characters from your own palette into any text box. Press a hotkey, tap a quick sequence, or click a character — Tap Caps pastes it instantly.
 
 Tap Caps also includes a fast quick‑tap sequence method that’s often quicker than navigating the mouse.
 
