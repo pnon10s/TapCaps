@@ -86,8 +86,8 @@ Commands are chosen for hand convenience:
 
      Left hand         Right hand
 [Esc]    [QWERTY]      [U O]
-[ `/~ ]    [ASDFGH]      [JKL]
-[Caps]   [ZXCVBN]       [M]
+[ `/~ ]   [ASDFGH]      [JKL]
+[Caps]     [ZXCVBN]      [M]
 
 • A command must be completed before continuing.
 • The Space bar or invalid key entries abort a command.
@@ -108,7 +108,7 @@ Because they pre-activate Caps, their usage must be understood.
 
 Common features of the following Quick Paste Modes
 • Caps is pre-activated - just enter selection or command! 
-   Ex. Press hotkey then T to quickly paste the character in cell 1xT.
+  Ex. Press hotkey then T to quickly paste the character in cell 1xT.
 • Tap Caps closes after the first successful paste. 
 • Commands are limited to [`/~]=Mode and U=Next Symbol set.
 
