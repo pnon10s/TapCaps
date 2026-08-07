@@ -21,7 +21,7 @@ Tap Caps also includes a fast quick‑tap sequence method that’s often quicker
 
 - If you haven’t already, run **TapCapsHotkeyToggle.exe**.  
 - Open any app with a text box and place the cursor.  
-- Press **Ctrl+A** to open Tap Caps.  
+- Press **Caps+A** to open Tap Caps.  
 - Click any character or emoji, or use a quick‑tap sequence.
 
 Tap Caps pastes the character into your text.  
