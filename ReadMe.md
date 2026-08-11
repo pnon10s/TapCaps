@@ -40,7 +40,8 @@ Tap Caps stays open for multi‑symbol pasting.
 - **SymbolSet3.txt** — Full set of characters and emojis 
 - **HELP.TXT** — Full details
 
-Click the Tap Caps Release button on the right side of the screen for the download zip. Extract the zip file in any secure place in your user folders.
+Click the Tap Caps Release button on the right side of the screen for the download zip. 
+Extract the zip file in any secure place in your user folders.
 
 ---
 
