@@ -68,9 +68,9 @@ Commands are chosen for hand convenience:
 • U, O are a low‑travel reach from the right‑hand home row.
 
      Left hand           Right hand
-[Esc]    [QWERTY]      [U O]
+[Esc]    [QWERTY]         [U O]
 [ `/~ ]    [ASDFGH]
-[Caps]   [ZXCVBN]
+[Caps]      [ZXCVBN]
 
 ------------------------------------------------------------
 Character Exploration
