@@ -1,0 +1,91 @@
+﻿Tap Caps — Help
+============================================
+★★ Summary of Caps Commands ★★
+Tap Caps (press and release Caps), then press:
+
+• Column letter → pastes row 1 cell
+• Row number then column letter → pastes that cell
+• J → toggle persistent / paste‑and‑close mode
+• K → show / hide the palette
+• L → cycle through symbol sets 1–9
+• M → open this Help file in Notepad
+============================================
+
+Run TapCapsSetup.exe for optional features:
+• Create hotkey Caps+A to quickly load Tap Caps
+• Add the hotkey to Startup so Tap Caps is always ready
+• Create a desktop shortcut to run Tap Caps
+
+Tap Caps pastes into whatever document has focus.
+Some characters appear in black fallback font inside
+the palette, but they paste in their correct color.
+
+Tap Caps takes control of the Caps key to perform quick
+pastes and commands. This blocks the normal CapsLock toggle.
+Press Shift+Caps to toggle CapsLock for normal typing.
+
+You can keep the palette visible or minimized while typing.
+Click palette cells for visual pasting, or use the keyboard
+shortcuts — often faster, with no hand movement.
+
+------------------------------------------------------------
+Choose Character to Paste After Tapping Caps
+• Tap a column letter to paste a row-1 cell
+Example: Caps → Q pastes row-1 / column-Q
+• Tap one or two digits to select rows 1–18
+Then tap a column letter to paste the chosen row/column cell
+
+------------------------------------------------------------
+Other Caps Commands
+Tap Caps, then:
+
+• J → toggle persistent mode
+The palette can stay open or close after one paste.
+The ℗ indicator in the upper‑left corner shows the mode.
+
+• K → show or hide the palette
+While hidden, you can still paste characters freely using
+Tap Caps keyboard shortcuts.
+★ Caps key remains controlled while minimized ★
+
+• L → load the next symbol set
+Up to 9 sets can be saved as SymbolSet1.txt through
+SymbolSet9.txt. Missing sets are ignored.
+
+Set files must be saved as UTF‑8 BOM so emojis display correctly.
+Copy an existing set or create a new set and save as follows:
+In Notepad: choose encoding in the Save dialog.
+In Notepad++: use the Encoding menu before saving.
+
+• M → open this Help file in Notepad.
+
+Press Esc or click the window’s X to close Tap Caps.
+
+------------------------------------------------------------
+Notes on Caps Commands
+Commands are chosen for hand convenience:
+
+• Caps is a large, easy command key
+• Column letters are the QWERTY keys and below
+• JKL, M are a low‑travel reach from the right‑hand home row.
+
+__Left hand____Right hand__
+Esc__QWERTY_____________
+Caps__ASDFGH____JKL_____
+_______ZXCVBN____M_____
+
+------------------------------------------------------------
+Character Exploration
+Tap Caps encourages playful symbol exploration.
+Open a symbol set, then press Win+. to open the Windows
+emoji/symbol picker. Scroll and click whatever symbols or
+emojis catch your interest.
+
+You can create up to 9 SymbolSetN.txt files.
+Use newlines and spaces to format the palette layout.
+
+🎶 ENJOY TYPING SYMBOLS AND EMOJIS! 😍
+Now I'm going to play 🥒⚽ at the Y!
+
+If you like Tap Caps, please donate to your favorite
+charity — or moi — and don’t forget to VOTE!
