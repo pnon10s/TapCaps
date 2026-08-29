@@ -1,0 +1,53 @@
+
+# Tap Caps — Overview
+
+Tap Caps is a small, fast, totally free utility for inserting your favorite symbols, emojis, and special characters from your own palette into any text box. Press a hotkey, tap a quick sequence, or click a character — Tap Caps pastes it instantly.
+
+Tap Caps also includes a fast quick‑tap sequence method that’s often quicker than navigating the mouse.
+
+**Tap Caps is a Windows‑only utility, designed for speed, simplicity, and everyday use that I want to share.**
+
+![Symbol Sets Preview](I.Love.You.gif)
+
+![Symbol Sets Preview](Palette.Examples.jpg)
+
+---
+
+## First‑Run Setup
+
+- Run **TapCapsSetup.exe** to enable the hotkey or shortcut.  
+- Now press the hotkey in any text box to open Tap Caps instantly.
+
+---
+
+## Quick Start (Try This First)
+
+- If you haven’t already, run **TapCapsSetup.exe**.  
+- Open any app with a text box and place the cursor.  
+- Press **Caps+A** to open Tap Caps.  
+- Click any character or emoji, or use a quick‑tap sequence.
+
+Tap Caps pastes the character into your text.   
+Tap Caps can stay open or close after one paste.   
+℗ in the upper left corner indicates Tap Caps will stay open.
+
+---
+
+## Files Included
+
+- **TapCaps.exe** — The main Tap Caps tool  
+- **TapCaps.ini** — The configuration file 
+- **TapCapsHelp.txt** — Full details
+- **TapCapsHotkey.exe** — Hotkey helper  
+- **TapCapsSetup.exe** — Hotkey and shortcut installer  
+- **SymbolSet1.txt** — Small three row set of characters and emojis  
+- **SymbolSet2.txt** — One row set of characters and emojis  
+- **SymbolSet3.txt** — Full set of characters and emojis 
+
+Click the Tap Caps Release button on the right side of the screen for the download zip.   
+Extract the zip file in any secure place in your user folders.
+
+---
+
+## License  
+Free for personal use.
