@@ -1,3 +1,71 @@
+⭐ Tap Caps Lite v4.6 — Release Notes
+
+Updated
+Minor help file clarifications.
+
+⭐ Tap Caps Lite v4.5 — Release Notes
+
+Improved
+Consistent focus handling for reliable, uninterrupted pasting into the target window.
+
+⭐ Tap Caps Lite v4.4 — Release Notes
+
+Fixed  
+Eliminated unintended CapsLock toggles. Tap Caps now starts with CapsLock off and uses Shift+Caps as the sole toggle, ensuring consistent behavior when Caps is used for quick selections and commands.
+
+⭐ Tap Caps Lite v4.3 — Release Notes
+
+Improved 
+• Clicking a cell while Caps is pressed now aborts the wait state and pastes instantly.  
+• Refined label sizing so symbols remain the visual focus.
+
+⭐ Tap Caps Lite v4.2 — Release Notes
+
+New
+• New Setup reflects the liberating free focus provided in the last release.
+
+Updated
+• Command letters chosen for keyboard uniformity
+• Help command Caps→M added back to Caps commands.
+
+Fixed
+• Maximize and resize removed from the palette window.
+
+⭐ Tap Caps Lite v4.1 — Release Notes
+
+New
+• Freedom to change focus to any text document even with Tap Caps open. Tap Caps will paste to last document to have the focus.
+• After pressing Caps, any key presses that aren't part of a Caps command or keyboard pasting shortcut will abort the command or shortcut and type to the document instead of locking and waiting for an expected sequence of presses. 
+
+Fixed
+• When first opened, the Palette title correctly shows the set number.
+
+Coming
+• Color palette! ... as time permits.
+
+⭐ Tap Caps Lite v4.0 — Release Notes
+
+A complete remake and simplification of Tap Caps.
+Now named Tap Caps Lite to distinguish it from the original Tap Caps.
+
+New
+• Newlines in the set file now create new rows in the palette, allowing visual formatting.
+• A more compact 12‑column palette is used when set lines are 12 characters or fewer.
+• Lines longer than 18 characters automatically wrap to the next row.
+• Caps → [`/~] toggles persistent mode, allowing the palette to close after one paste.
+• Palette title now includes the number of the Symbol Set currently displayed.
+
+Updated
+• Editing, reloading, and set‑opening removed — users now edit the set file directly.
+• Quick‑paste modes removed to simplify keyboard control.
+• Help option removed from the palette; documentation is included in the install folder.
+• Options other than [`/~] = persistant mode are now:
+  ✓ U = display next set
+  ✓ O = toggle hide/show
+
+Fixed
+• Hidden palette sometimes restored to the middle of the screen instead of the user's chosen position. 
+
 ⭐ Tap Caps v3.5 — Release Notes
 
 Improved
